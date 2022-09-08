@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Dragonbaby5472
-- 🌱 I’m currently learning Java.
+- This is a simple code I wrote when I was learning Java.
